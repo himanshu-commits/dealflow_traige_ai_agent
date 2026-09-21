@@ -1,0 +1,17 @@
+# secrets / local env
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+*.db
+
+# node
+node_modules/
+dist/
+
+# os / editor
+.DS_Store
+.idea/
